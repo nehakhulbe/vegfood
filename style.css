@@ -1,0 +1,26 @@
+header img {
+    background-color: burlywood;
+    width: 50%;
+}
+
+img {
+    width: 100%;
+   
+}
+
+table{
+    border: solid forestgreen;
+}
+
+td{
+    background-color: burlywood;
+    border: dotted red;
+}
+h4{
+    colour: yellow ;
+}
+
+h2{ background-color: blueviolet;}
+.container{
+    background-color: gray;
+}

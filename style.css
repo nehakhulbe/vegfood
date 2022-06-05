@@ -75,3 +75,7 @@ nav {
     text-decoration: wavy;
     padding: 0;
 }
+.container
+{
+    background-color: coral;
+}

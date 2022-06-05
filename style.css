@@ -10,6 +10,7 @@ body {
     font-family: cursive;
     align-items: center;
    margin: 5px;
+   overflow-x: hidden; 
 }
 
     header h4 {
@@ -30,6 +31,7 @@ table {
     align-content: center;
   
     font-family: cursive;
+    width: 100%;
   
 
 }
@@ -51,10 +53,12 @@ h1{ background-color:coral;
 padding-bottom: 10px;}
 
 .container{
-
-    background-color: gray;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
     align-content: center;
-    margin: 0;
+    
 }
 
 h1{
